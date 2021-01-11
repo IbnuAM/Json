@@ -1,0 +1,24 @@
+{
+	"employees" : [
+	{
+		"firstame" : "Dian",
+		"age" : 27,
+		"addres" : "Bandung"
+	},
+	{
+		"firstame" : "Lala",
+		"age" : 24,
+		"addres" : "Jakarta"
+	},
+	{
+		"firstame" : "Kevin",
+		"age" : 25,
+		"addres" : "Surabaya"
+	},
+	{
+		"firstame" : "Dean",
+		"age" : 26,
+		"addres" : "Kalimantan"
+	}
+	]
+}
